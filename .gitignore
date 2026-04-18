@@ -1,0 +1,27 @@
+.ace-tool/
+.git/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local documentation / notes
+CLAUDE.md
+
+# Runtime data
+data/temp/
+data/**/*.tmp
+data/**/*.log
+config/local*.json
+

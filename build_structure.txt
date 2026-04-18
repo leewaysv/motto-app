@@ -1,0 +1,23 @@
+motto/
+├── config/
+│   └── config.json
+├── data/
+│   ├── todo.json
+│   └── screenshots.json
+├── ui/
+│   ├── __init__.py
+│   ├── main_window.py
+│   ├── editor.py
+│   ├── todo_view.py
+│   └── screenshot/
+│       ├── __init__.py
+│       ├── annotator.py
+│       └── thumbnails.py
+├── utils/
+│   ├── __init__.py
+│   ├── screenshot.py
+│   ├── tray.py
+│   └── autostart.py
+├── requirements.txt
+├── build.spec
+└── motto.py

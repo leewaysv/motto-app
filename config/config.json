@@ -1,0 +1,23 @@
+{
+  "x": 100,
+  "y": 100,
+  "width": 400,
+  "height": 150,
+  "alpha": 0.9,
+  "visible": true,
+  "always_on_top": true,
+  "theme": "light",
+  "motto_text": "点击此处编辑座右铭",
+  "hotkeys": {
+    "take_screenshot": [
+      "Ctrl+Shift+S",
+      "Ctrl+Alt+S"
+    ],
+    "toggle_main_window": [
+      "Ctrl+Shift+M"
+    ],
+    "toggle_todo": [
+      "Ctrl+Shift+T"
+    ]
+  }
+}
