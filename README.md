@@ -60,4 +60,3 @@ python main.py
 ## 说明
 
 这是一个 Windows 桌面个人项目，界面基于 Tkinter，依赖 `Pillow`、`pystray`、`pynput` 等库完成截图、托盘和全局快捷键能力。
-
